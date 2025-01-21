@@ -12,6 +12,6 @@ amadeus API를 통해 원하는 여행지의 항공권을 검색하고, AI chatb
 <img src="https://github.com/user-attachments/assets/9008f0c2-0ace-48f9-ab51-fb1fcf053d6a"/>
 
 # 아쉬운점
-AI기능을 생각했던만큼 활용하지 못하였다.
+AI기능을 생각했던만큼 활용하지 못하였다.<br>
 짧은기간과 처음 접하였던 기술들로 인해 많은 기능들을 추가하지 못하였다.
 
