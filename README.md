@@ -7,9 +7,11 @@ amadeus API를 통해 원하는 여행지의 항공권을 검색하고, AI chatb
 - 노일권: UI
 # 기능
 <img src="https://github.com/user-attachments/assets/bf3c7880-ffde-49d3-b999-2cdf52f43418"/>
+<img src="https://github.com/user-attachments/assets/e6d1aaf1-6420-4054-abd5-50838b15c129"/>
+<img src="https://github.com/user-attachments/assets/7979ddab-537b-4b63-aaf4-cafaf9454048"/>
+<img src="https://github.com/user-attachments/assets/9008f0c2-0ace-48f9-ab51-fb1fcf053d6a"/>
 
-[o] 회원가입 / 로그인 기능 
-[o] OpenAI , amdadeus API 연결 
-[0] ChatBot - amadeus 데이터 연결 
-
+# 아쉬운점
+AI기능을 생각했던만큼 활용하지 못하였다.
+짧은기간과 처음 접하였던 기술들로 인해 많은 기능들을 추가하지 못하였다.
 
