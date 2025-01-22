@@ -1,5 +1,5 @@
 # Traveler
-<img src="https://github.com/user-attachments/assets/f82a0154-5494-4b77-b377-d4aff5ce054c" width=75% height=75%/>
+<img src="https://github.com/user-attachments/assets/f82a0154-5494-4b77-b377-d4aff5ce054c" width=75% height=75%/><br>
 amadeus API를 통해 원하는 여행지의 항공권을 검색하고, AI chatbot을 통해 가장 저렴한 항공권을 물어보거나 관광지에 대해 질문해 답변을 얻을 수 있는 사이트 입니다.
 # 팀원
 - 김성민: UI, chat bot API 연동
